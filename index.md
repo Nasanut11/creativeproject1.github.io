@@ -1,2 +1,3 @@
-## Creative Project One
+# Creative Project One
 
+## Summary of Work
